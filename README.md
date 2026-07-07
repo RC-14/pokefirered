@@ -1,5 +1,11 @@
 # Pokémon FireRed and LeafGreen
 
+This is a fork of the Pokémon Emerald decompilation found by pret.
+
+I don't know what, if anything, I'll do with it. (maybe port my patches for emerald?)
+
+## Original README
+
 This is a decompilation of English Pokémon FireRed and LeafGreen.
 
 It builds the following ROM images:
