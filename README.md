@@ -2,7 +2,15 @@
 
 This is a fork of the Pokémon Emerald decompilation found by pret.
 
-I don't know what, if anything, I'll do with it. (maybe port my patches for emerald?)
+I just do some random stuff here.
+
+## Script address lookup for ACE
+
+I added `.scriptaddrs` (made that file ending up) files that document the addresses at which the scripts are in the final binary for use with ACE codes.
+
+Structure: `<hex_address>\t<location>\t<script_name>`
+
+If you want to find the file where a function comes fromm you need to prepend `data/` to `<location>`and that's the file path. (missing `/scripts.inc` for `maps/...` and `.inc` for `scripts/...` at the end)
 
 ## Original README
 
